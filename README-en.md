@@ -1,5 +1,10 @@
 # Miniprogram zed extension
 
+<p align="center">
+  <a href="./README_en.md">English</a> |
+  <a href="./README.md">简体中文</a>
+</p>
+
 [![](https://img.shields.io/badge/Powered%20by-FinClip-lightgrey)](https://finclip.com/en)
 
 Zed miniprogram development plugin
@@ -33,3 +38,5 @@ Zed miniprogram development plugin
 ## Usage
 
 Open the mini program project with the Zed editor, use the shortcut `Cmd+Shift+P` to open the command panel, enter `tasks` Miniprogram Preview to preview the mini program, at this time editing and saving the mini program code will automatically restart the preview window, you can see the changes of the mini program in real time
+
+<video src='./assets/screen_record.mp4' width=480/>
