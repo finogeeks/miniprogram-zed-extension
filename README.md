@@ -1,6 +1,8 @@
-# FinClip zed extension
+<!-- Powered by https://finclip.com -->
 
-一个用于FinClip小程序的Zed插件
+# Miniprogram zed extension
+
+zed 微信小程序开发插件
 
 ## 安装
 
@@ -9,16 +11,16 @@
 
 ## 安装小程序预览工具
 
-1. 下载FinClip小程序预览工具  
-  [Windows](https://www-cdn.finclip.com/desktop-sdk/preview-tool/offline-applet-builder-win.exe)  
-  [Mac](https://www-cdn.finclip.com/desktop-sdk/preview-tool/offline-applet-builder-macos)  
-2. 配置Zed编辑器的Tasks
+1. 下载小程序预览工具  
+  [Windows](https://www-cdn.finclip.com/desktop-sdk/preview-tool/miniprogram-builder-win.exe)  
+  [Mac](https://www-cdn.finclip.com/desktop-sdk/preview-tool/miniprogram-builder-macos)  
+2. 配置 Zed 编辑器的 Tasks
 
 ```json
 [
   {
-    "label": "FinClip Preview",
-    "command": "/path/to/file/offline-applet-builder-win.exe",
+    "label": "Miniprogram Preview",
+    "command": "/path/to/file/miniprogram-builder-win.exe",
     "args": [],
     "env": {},
     "use_new_terminal": false,
@@ -30,4 +32,4 @@
 
 ## 使用
 
-用Zed编辑器打开小程序项目，使用快捷键`Cmd+Shift+P`打开命令面板，输入`tasks`选择FinClip Preview即可预览小程序，此时编辑小程序代码会自动重启预览窗口
+用 Zed 编辑器打开小程序项目，使用快捷键`Cmd+Shift+P`打开命令面板，输入`tasks` Miniprogram Preview 即可预览小程序，此时编辑小程序代码并保存会自动重启预览窗口，可以实时看到小程序的改动

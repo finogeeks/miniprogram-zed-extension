@@ -1,8 +1,8 @@
 use zed_extension_api::{self as zed, Result};
 
-struct FinclipExtension;
+struct MiniprogramExtension;
 
-impl zed::Extension for FinclipExtension {
+impl zed::Extension for MiniprogramExtension {
     fn new() -> Self {
         Self {}
     }
@@ -16,4 +16,4 @@ impl zed::Extension for FinclipExtension {
     }
 }
 
-zed::register_extension!(FinclipExtension);
+zed::register_extension!(MiniprogramExtension);

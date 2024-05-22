@@ -1,6 +1,6 @@
 name = "HTML"
 grammar = "html"
-path_suffixes = ["fxml"]
+path_suffixes = ["fxml", "wxml"]
 autoclose_before = ">})"
 block_comment = ["<!-- ", " -->"]
 brackets = [
