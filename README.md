@@ -39,4 +39,4 @@ zed 微信小程序开发插件
 
 用 Zed 编辑器打开小程序项目，使用快捷键`Cmd+Shift+P`打开命令面板，输入`tasks` Miniprogram Preview 即可预览小程序，此时编辑小程序代码并保存会自动重启预览窗口，可以实时看到小程序的改动
 
-<video src='./assets/screen_record.mp4' width=480/>
+https://github.com/finogeeks/miniprogram-zed-extension/raw/main/assets/screen_record.mp4

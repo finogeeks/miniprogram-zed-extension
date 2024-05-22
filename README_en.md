@@ -39,4 +39,4 @@ Zed miniprogram development plugin
 
 Open the mini program project with the Zed editor, use the shortcut `Cmd+Shift+P` to open the command panel, enter `tasks` Miniprogram Preview to preview the mini program, at this time editing and saving the mini program code will automatically restart the preview window, you can see the changes of the mini program in real time
 
-<video src='./assets/screen_record.mp4' width=480/>
+https://github.com/finogeeks/miniprogram-zed-extension/raw/main/assets/screen_record.mp4
