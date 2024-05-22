@@ -1,6 +1,6 @@
-<!-- Powered by https://finclip.com -->
-
 # Miniprogram zed extension
+
+[![](https://img.shields.io/badge/Powered%20by-FinClip-lightgrey)](https://finclip.com)
 
 zed 微信小程序开发插件
 

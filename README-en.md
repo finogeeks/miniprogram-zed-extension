@@ -1,6 +1,6 @@
-<!-- Powered by https://finclip.com/en -->
-
 # Miniprogram zed extension
+
+[![](https://img.shields.io/badge/Powered%20by-FinClip-lightgrey)](https://finclip.com/en)
 
 Zed miniprogram development plugin
 
