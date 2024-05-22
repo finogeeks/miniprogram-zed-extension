@@ -1,0 +1,5 @@
+.vscode
+.zed
+extension.wasm
+target
+Cargo.lock

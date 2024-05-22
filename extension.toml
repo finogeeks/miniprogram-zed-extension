@@ -1,0 +1,7 @@
+id = "finclip-extension"
+name = "FinClip Extension"
+version = "0.0.1"
+schema_version = 1
+authors = ["FinClip"]
+description = "FinClip extension"
+repository = "https://github.com/finogeeks/finclip-zed-extension"
